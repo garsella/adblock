@@ -20,3 +20,5 @@ r1---sn-npoeen7k.googlevideo.com
 r1---sn-npoe7ner.googlevideo.com
 r5---sn-npoe7nez.googlevideo.com
 r6---sn-npoe7n7s.googlevideo.com
+r2---sn-npoe7nez.googlevideo.com
+r5---sn-npoeenez.googlevideo.com
