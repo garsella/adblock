@@ -24,3 +24,10 @@ r2---sn-npoe7nez.googlevideo.com
 r5---sn-npoeenez.googlevideo.com
 r1---sn-npoe7ne7.googlevideo.com
 r2---sn-npoe7nek.googlevideo.com
+r1---sn-25glenez.googlevideo.com
+r1---sn-npoe7nek.googlevideo.com
+r1---sn-npoe7nes.googlevideo.com
+r3---sn-npoe7ned.googlevideo.com
+r4---sn-npoeene6.googlevideo.com
+r5---sn-npoe7ne7.googlevideo.com
+r6---sn-npoeen7k.googlevideo.com
