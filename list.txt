@@ -34,3 +34,8 @@ r6---sn-npoeen7k.googlevideo.com
 r4---sn-npoeene6.googlevideo.com
 r4---sn-npoeenek.googlevideo.com
 r4---sn-npoeeney.googlevideo.com
+r1---sn-npoeenl7.googlevideo.com
+r3---sn-npoeenek.googlevideo.com
+r4---sn-npoeene6.googlevideo.com
+r4---sn-npoeenek.googlevideo.com
+r4---sn-npoeeney.googlevideo.com
