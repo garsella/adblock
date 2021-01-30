@@ -66,4 +66,9 @@ kingdom66.com
 
 ##a[href*="i.imgur.com"] > img
 ##a[href*="hydra888.com"] > img
-||kingdom66.com^$popup
+##a[href*="juad888.com"] > img
+##a[href*="lotto432.com"] > img
+##a[href*="lockdown168.com"] > img
+
+||kingdom66.com^$popup,script,third-party
+kingdom66.com##+js(window.open-defuser.js)
