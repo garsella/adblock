@@ -66,3 +66,4 @@ kingdom66.com
 
 ##a[href*="i.imgur.com"] > img
 ##a[href*="hydra888.com"] > img
+||kingdom66.com^$popup
