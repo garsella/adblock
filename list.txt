@@ -65,7 +65,7 @@ r6---sn-i3b7kn76.googlevideo.com
 kingdom66.com
 
 ##a[href*="i.imgur.com"] > gif
-##a[href*="hydra888.com"] > gif
+a[href*="hydra888.com"] > gif
 ##a[href*="hydra888.com"] > img
 ##a[href*="juad888.com"] > img
 ##a[href*="lotto432.com"] > img
