@@ -64,7 +64,7 @@ r5---sn-npoe7ned.googlevideo.com
 r6---sn-i3b7kn76.googlevideo.com
 kingdom66.com
 
-##a[href*="i.imgur.com"] > gif,img
+##a[href*="i.imgur.com"] > img,gif
 
 
 
