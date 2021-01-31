@@ -76,3 +76,4 @@ kingdom66.com##+js(window.open-defuser.js)
 
 0.0.0.0 mgsub.com
 0.0.0.0 i.imgur.com
+0.0.0.0 hydra888.com
