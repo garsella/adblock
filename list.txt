@@ -1,4 +1,14 @@
-kingdom66.com,lotto432.com,hydra888.com,lotto432.com,juad888.com,lockdown168.com,slotgame6666.com,ufac4.com,1688sagame.com,wmbet444.com##+js(window.open-defuser.js)
+kingdom66.com##+js(window.open-defuser.js)
+lotto432.com##+js(window.open-defuser.js)
+hydra888.com##+js(window.open-defuser.js)
+lotto432.com##+js(window.open-defuser.js)
+juad888.com##+js(window.open-defuser.js)
+lockdown168.com##+js(window.open-defuser.js)
+slotgame6666.com##+js(window.open-defuser.js)
+ufac4.com##+js(window.open-defuser.js)
+1688sagame.com##+js(window.open-defuser.js)
+wmbet444.com##+js(window.open-defuser.js)
+
 
 ##a[href*="kingdom66.com"] > img
 ##a[href*="lotto432.com"] > img
