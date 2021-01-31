@@ -1,4 +1,4 @@
-kingdom66.com
+0.0.0.0 kingdom66.com
 
 ##a[href*=""] > img
 ##a[href*=""] > img
@@ -9,7 +9,7 @@ kingdom66.com
 ##a[href*=""] > img,gif
 ##a[href*=""] > img,gif
 
-kingdom66.com##+js(window.open-defuser.js)
+
 
 0.0.0.0 mgsub.com
 0.0.0.0 i.imgur.com
