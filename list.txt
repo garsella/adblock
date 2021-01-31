@@ -72,3 +72,6 @@ a[href*="lockdown168.com"] > img
 
 ||kingdom66.com^$popup,script,third-party
 kingdom66.com##+js(window.open-defuser.js)
+
+||i.imgur.com
+||mgsub.com
