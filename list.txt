@@ -1,4 +1,5 @@
 kingdom66.com
+kingdom66.com##+js(window.open-defuser.js)
 
 ##a[href*=""] > img
 ##a[href*=""] > img
