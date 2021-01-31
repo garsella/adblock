@@ -64,8 +64,8 @@ r5---sn-npoe7ned.googlevideo.com
 r6---sn-i3b7kn76.googlevideo.com
 kingdom66.com
 
-a[href*="i.imgur.com"] > img,gif
-##a[href*="kserietv.com/adsimg"] > img,gif
+##a[href*="i.imgur.com"] > img
+##a[href*="kserietv.com"] > img
 ##a[href*=""] > img,gif
 ##a[href*=""] > img,gif
 ##a[href*=""] > img,gif
