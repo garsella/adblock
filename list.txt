@@ -64,12 +64,12 @@ r5---sn-npoe7ned.googlevideo.com
 r6---sn-i3b7kn76.googlevideo.com
 kingdom66.com
 
-a[href*="i.imgur.com"] > gif
-a[href*="hydra888.com"] > gif
-a[href*="hydra888.com"] > img
-a[href*="juad888.com"] > img
-a[href*="lotto432.com"] > img
-a[href*="lockdown168.com"] > img
+##a[href*="i.imgur.com"] > gif
+##a[href*="hydra888.com"] > gif
+##a[href*="hydra888.com"] > img
+##a[href*="juad888.com"] > img
+##a[href*="lotto432.com"] > img
+##a[href*="lockdown168.com"] > img
 
 ||kingdom66.com^$popup,script,third-party
 kingdom66.com##+js(window.open-defuser.js)
