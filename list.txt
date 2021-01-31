@@ -1,15 +1,16 @@
 kingdom66.com
 kingdom66.com##+js(window.open-defuser.js)
 
+##a[href*="kingdom66.com"] > img
 ##a[href*=""] > img
-##a[href*=""] > img
 ##a[href*=""] > img,gif
 ##a[href*=""] > img,gif
 ##a[href*=""] > img,gif
 ##a[href*=""] > img,gif
 ##a[href*=""] > img,gif
 ##a[href*=""] > img,gif
-
+##a[href*=macau-uta-popup]
+##div[id^=div-gpt-ad-]
 
 
 0.0.0.0 mgsub.com
